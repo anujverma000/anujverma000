@@ -13,7 +13,6 @@ I :heart: forntend developement
 ## Social
 ![Github](https://img.shields.io/github/followers/anujverma000?style=social)
 ![Twitter](https://img.shields.io/twitter/follow/anujverma000?style=social)
-![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/894220?style=plastic)
 
 ## Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anujverma000)
