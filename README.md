@@ -5,7 +5,7 @@
 ![Gmail](https://img.shields.io/badge/email-anujverma000@gmail.com-red)
 
 # Hello 𝗜'𝗺 Anuj Verma
-I :heart: forntend developement
+I :heart: frontend developement
 
 :computer: Senior Frontend Engineer
 
