@@ -7,7 +7,7 @@
 # Hello 𝗜'𝗺 Anuj Verma
 I :heart: forntend developement
 
-:computer: Senior Frontend Engineer, working with [dubizzle](http://dubai.dubizzle.com)
+:computer: Senior Frontend Engineer
 
 
 ## Social
