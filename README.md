@@ -9,10 +9,14 @@ I :heart: frontend developement
 
 :computer: Senior Frontend Engineer
 
+:book: Resume in terminal
+
+`npx anujverma`
 
 ## Social
 ![Github](https://img.shields.io/github/followers/anujverma000?style=social)
 ![Twitter](https://img.shields.io/twitter/follow/anujverma000?style=social)
+
 
 
 ⭐️ From [anujverma000](https://github.com/anujverma000)
