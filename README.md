@@ -9,14 +9,15 @@ I :heart: frontend developement
 
 :computer: Senior Frontend Engineer
 
-:book: Resume in terminal
-
-`npx anujverma`
+:book: Resume in terminal: `npx anujverma`
 
 ## Social
 ![Github](https://img.shields.io/github/followers/anujverma000?style=social)
 ![Twitter](https://img.shields.io/twitter/follow/anujverma000?style=social)
 
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujverma000&show_icons=true&locale=en" alt="anujverma000" />
 
-⭐️ From [anujverma000](https://github.com/anujverma000)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujverma000&show_icons=true&locale=en" alt="anujverma000" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujverma000&" alt="anujverma000" />
