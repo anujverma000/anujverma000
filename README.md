@@ -7,7 +7,7 @@
 # Hello 𝗜'𝗺 Anuj Verma
 I :heart: frontend developement
 
-:computer: Senior Frontend Engineer
+:computer: Director of UI
 
 :book: Resume in terminal: `npx anujverma`
 
