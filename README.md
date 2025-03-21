@@ -20,4 +20,3 @@ I :heart: frontend developement
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anujverma000&show_icons=true&locale=en" alt="anujverma000" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujverma000&" alt="anujverma000" />
